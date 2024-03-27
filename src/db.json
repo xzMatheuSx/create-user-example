@@ -1,0 +1,17 @@
+[
+  {
+    "name": "joe Doe",
+    "email": "joedoe@gmail.com",
+    "password": "j1234"
+  },
+  {
+    "name": "Teste",
+    "email": "joedoe@gmadfil.com",
+    "password": "TEste"
+  },
+  {
+    "name": "Teste",
+    "email": "teste.com",
+    "password": "TEste"
+  }
+]
